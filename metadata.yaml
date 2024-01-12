@@ -1,0 +1,36 @@
+_repo: Varia_72434
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Repplier, Agnes
+    birthdate: 1855
+    deathdate: 1950
+    gutenberg_agent_id: '6888'
+    url: http://www.gutenberg.org/2009/agents/6888
+    wikipedia: https://en.wikipedia.org/wiki/Agnes_Repplier
+description: ''
+gutenberg_issued: '2023-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72434'
+language: en
+pgterms:marc904: https://archive.org/details/varia0000agne/page/n5/mode/2up
+pgterms:marc905: 20230308033840repplier
+pgterms:marc906: '1897'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aBoston :$bHoughton Mifflin Company, $c1897.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature -- History and criticism'
+- !lcsh 'American essays -- 19th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'The eternal feminine -- The deathless diary -- Guides: a protest
+  -- Little Pharisees in fiction -- The fête de Gayant -- Cakes and ale -- Old wine
+  and new -- The royal road of fiction -- From the reader''s standpoint.'
+title: Varia
+url: http://www.gutenberg.org/ebooks/72434
